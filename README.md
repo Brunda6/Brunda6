@@ -6,7 +6,6 @@
 - 😄 Pronouns: She/Her.
 - ⚡ I’m learning to play the guitar and hope to code my own music app one day!
 
-<!---
-I have a diverse skill set in programming languages like C, Java, Python, HTML, and CSS, which I have effectively applied in various academic and personal projects. 
-I believe that continuous learning is key to success in tech.
---->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Brunda6&show_icons=true&locale=en&layout=compact" alt="Brunda6" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Brunda6&" alt="Brunda6" /></p>
