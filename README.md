@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, software engineering, and coding challenges.
 - 🌱 I’m currently learning about advanced web technologies and app development.
 - 💞️ I’m eager to collaborate on creative web projects and innovative solutions!
-- 📫 Reach me via [LinkedIn](www.linkedin.com/in/brunda-m).
+- 📫 Reach me via [LinkedIn]([www.linkedin.com/in/brunda-m](https://www.linkedin.com/in/brunda-m/?trk=public-profile-join-page)).
 - 😄 Pronouns: She/Her.
 - ⚡ I’m learning to play the guitar and hope to code my own music app one day!
 
