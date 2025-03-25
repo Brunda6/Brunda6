@@ -8,6 +8,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Brunda6&show_icons=true&locale=en&layout=compact" alt="Brunda6" /></p>
 
-<a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Brunda6" alt="Brunda6's GitHub Streak" />
-</a>
+<img src="https://streak-stats.demolab.com?user=Brunda6&theme=black-ice" alt="Brunda6's GitHub Streak" />
