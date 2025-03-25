@@ -9,5 +9,5 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Brunda6&show_icons=true&locale=en&layout=compact&theme=dark" alt="Brunda6" width="350px"/>
 
-<img src="https://streak-stats.demolab.com?user=Brunda6&theme=black-ice" alt="Brunda6's GitHub Streak" style="display: block; margin: 0 auto;"/>
+<img align="left" src="https://streak-stats.demolab.com?user=Brunda6&theme=black-ice" alt="Brunda6's GitHub Streak" style="display: block; margin: 0 auto;" />
 
